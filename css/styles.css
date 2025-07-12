@@ -1,0 +1,22 @@
+body {
+    font-family: "Roboto",sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+a {
+    text-decoration: none;
+}
+
+.logo {
+    font-family: "Raleway";
+    color: #4D5AE5;
+    text-transform: uppercase;
+    font-weight:bold
+}
+
+.Studio {
+    font-family: "Raleway";
+    color: #2E2F42;
+    text-transform: uppercase
+}
