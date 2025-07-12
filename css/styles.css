@@ -4,19 +4,79 @@ body {
     background-color: #FFFFFF;
 }
 
+ul {
+    list-style-type: none;
+}
+
 a {
     text-decoration: none;
 }
 
 .logo {
     font-family: "Raleway";
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 117%;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
     color: #4D5AE5;
-    text-transform: uppercase;
-    font-weight:bold
 }
 
 .Studio {
     font-family: "Raleway";
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 117%;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
     color: #2E2F42;
-    text-transform: uppercase
+    
+}
+
+.navlist .navlink {
+    font-family: "Roboto";
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.addlist .addinfo {
+    font-family: "Roboto";
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+h1 {
+    font-family: "Roboto";
+    font-weight: 700;
+        font-size: 56px;
+        line-height: 107%;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #FFFFFF;
+}
+
+.btn {
+    font-family: "Roboto";
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0.04em;
+        color: #FFFFFF;
+        background-color: #4D5AE5;
+        
+}
+
+.bnft .bnfttitle {
+    font-family: "Roboto";
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 120%;
+        letter-spacing: 0.02em;
+        color: #434455;
 }
