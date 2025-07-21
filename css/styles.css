@@ -13,7 +13,7 @@ a {
 }
 
 .logo {
-    font-family: "Raleway";
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
         font-size: 18px;
         line-height: 117%;
@@ -23,7 +23,7 @@ a {
 }
 
 .Studio {
-    font-family: "Raleway";
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
         font-size: 18px;
         line-height: 117%;
@@ -51,7 +51,11 @@ a {
         color: #434455;
 }
 
-h1 {
+.sctn1 {
+    background-color: #2E2F42;
+}
+
+.maintitle {
     font-family: "Roboto";
     font-weight: 700;
         font-size: 56px;
@@ -78,5 +82,5 @@ h1 {
         font-size: 20px;
         line-height: 120%;
         letter-spacing: 0.02em;
-        color: #434455;
+        color: #2E2F42;
 }
