@@ -44,7 +44,7 @@ a {
 
 .navlist .navlink:hover, 
 .navlist .navlink:focus {
-    color: #404bbf
+    color: #404bbf;
 
 }
 
@@ -61,9 +61,9 @@ a {
         color: #434455;
 }
 
-.addlist .addinfo:hover
+.addlist .addinfo:hover,
 .addlist .addinfo:focus {
-    color: #404bbf
+    color: #404bbf;
 }
 
 .main {
@@ -138,6 +138,10 @@ a {
     color: #2e2f42;
 }
 
+.team-card {
+    background-color: #FFFFFF;
+}
+
 .team-p {
     font-size: 16px;
     line-height: 1.5;
@@ -172,7 +176,7 @@ a {
     background-color: #2e2f42;
 }
 
-.Studio-footer {
+.studio-footer {
     color: #f4f4fd
 }
 
