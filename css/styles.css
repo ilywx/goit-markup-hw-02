@@ -42,6 +42,16 @@ a {
     color: #2E2F42;
 }
 
+.navlist .navlink:hover, 
+.navlist .navlink:focus {
+    color: #404bbf
+
+}
+
+.addrs {
+    font-style: normal;
+}
+
 .addlist .addinfo {
     font-family: "Roboto";
         font-weight: 400;
@@ -51,7 +61,12 @@ a {
         color: #434455;
 }
 
-.sctn1 {
+.addlist .addinfo:hover
+.addlist .addinfo:focus {
+    color: #404bbf
+}
+
+.main {
     background-color: #2E2F42;
 }
 
@@ -66,7 +81,7 @@ a {
 }
 
 .btn {
-    font-family: "Roboto";
+    font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 16px;
         line-height: 150%;
@@ -76,6 +91,13 @@ a {
         
 }
 
+.btn:hover,
+.btn:focus
+{
+    background-color: #404BBF;
+    cursor: pointer
+}
+
 .bnft .bnfttitle {
     font-family: "Roboto";
         font-weight: 500;
@@ -83,4 +105,79 @@ a {
         line-height: 120%;
         letter-spacing: 0.02em;
         color: #2E2F42;
+}
+
+.bnftpage {
+    line-height: 1.5;
+    letter-spacing: 0.02em
+}
+
+.team {
+    background-color: #F4F4FD
+}
+
+.team-title {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.team-list {
+    background-color: #FFFFFF
+
+}
+
+.team-head {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.team-p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.prtf {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.prtf-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.prtf-page {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.footer {
+    background-color: #2e2f42;
+}
+
+.Studio-footer {
+    color: #f4f4fd
+}
+
+.footer-p {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em
 }
