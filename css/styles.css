@@ -157,7 +157,8 @@ a {
     color: #2e2f42;
 }
 
-.prtf-title {
+.prtf-title,
+.prtf-title-alt {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -165,7 +166,8 @@ a {
     color: #2e2f42;
 }
 
-.prtf-page {
+.prtf-page,
+.prtf-page-alt {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
