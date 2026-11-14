@@ -6,6 +6,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  background-color: #fff;
 }
 
 ul,
@@ -31,7 +32,7 @@ address {
   font-family: "Raleway";
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.166;
+  line-height: 1.33;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2e2f42;
